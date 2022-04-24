@@ -1,0 +1,5 @@
+rootProject.name = 'netology-gradel'
+include 'api'
+include 'db'
+include 'service'
+
